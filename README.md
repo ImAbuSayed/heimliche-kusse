@@ -1,4 +1,4 @@
-# Heimliche Küsse
+# Heimliche Küsse, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Heimliche Küsse |
+| **Title** | Heimliche Küsse, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heimliche-kusse/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Heimliche Küsse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heimliche-kusse/) |
+| **Get License** | [Request Licensing for Heimliche Küsse, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heimliche-kusse/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig in den AMG, Baby, wir flieh'n durch die Nacht
+> Heimliche Küsse im Rücksitz, nur für uns ausgedacht
+> Fühl diesen Vibe, mein Adrenalin, ich will dich spür'n
+> Kein Limit, no rules, Babe, lass mich dich verführ'n
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 29, 2026 |
+| **SHA-256 Hash** | `86c03fa65de7df6bc9ff2f3f60cd5d084733e9226bc372abcd2a0c541c5b4992` |
+| **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
